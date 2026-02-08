@@ -152,4 +152,16 @@ Potential next steps for a production-grade system:
 - Add authentication, audit logging, and data lineage tracking
 - Deploy as a secure internal regulatory reporting assistant
 
+## Demo Screenshots
 
+### Scenario Input
+![Scenario Input](assets/ui-scenario_input.png)
+
+### Regulatory Retrieval (RAG)
+![Regulatory Retrieval](assets/ui-regulatory_retrieval.png)
+
+### Structured COREP JSON Output
+![Structured JSON](assets/ui-structured_json_output.png)
+
+### COREP Validation and Audit Trail
+![COREP Table](assets/ui-corep_validation_audit.png)
